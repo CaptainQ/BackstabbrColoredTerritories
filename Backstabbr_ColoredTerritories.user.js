@@ -1,4 +1,4 @@
-// ==UserScript==
+// ==UserScript== Test Update
 // @name         Backstabbr Colored Territories
 // @namespace    http://tampermonkey.net/
 // @version      0.1
